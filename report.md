@@ -1,4 +1,4 @@
-Concepção do Projeto
+# Concepção do Projeto
 
 ### O problema a ser resolvido
 A ideia do PokerFaces é disponibilizar uma plataforma de realidade aumentada de Poker, onde usuários interessados em jogar Poker podem se encontrar utilizando o aplicativo de forma simples e rápida.
@@ -18,4 +18,3 @@ Pretendemos desenvolver cada vez mais nosso projeto para que possamos realizar u
 - Haverá um cadastro de usuários com informações mínimas para que ele possa participar dos campeonatos, criar mesas, etc.
 
 Procurando em stores, não encontramos um programa parecido. Em geral, no mercado, temos apenas jogos de poker em que você joga com outras pessoas ou com a IA, portanto, estamos criando um projeto novo no mercado. (André, dar uma confirmada, por favor).
-
