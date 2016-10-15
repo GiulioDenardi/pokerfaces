@@ -24,3 +24,8 @@ O app também possuirá dois tipos de funcionalidade: a mesa LIVE e a mesa DIGI.
 - Já a mesa **DIGI** refere-se a usuários que não possuem baralho e portanto jogarão utilizando o app. A mecânica e as regras do jogo para essa modalidade ainda estão sendo pensadas, porém espera-se que gaste pouca bateria do aparelho, e que o usuário só possa se entrar na mesa se garantir que estará com bateria até o final do jogo. Também ireoms deixar o gerenciamento do jogo, neste caso, para o servidor.
 
 Procurando em stores, não encontramos um programa parecido. Em geral, no mercado, temos apenas jogos de poker em que você joga com outras pessoas ou com a IA, portanto, estamos criando um projeto novo no mercado. (André, dar uma confirmada, por favor).
+
+
+### Testando e exportando
+
+Para avaliar a integridade do app e até sua receptividade, iremos disponibilizar para o público, em grupos de poker, etc. para ver se as pessoas acabam se interessando pela ideia.
